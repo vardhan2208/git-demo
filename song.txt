@@ -4,7 +4,8 @@ this is a demo
 of making a pull request
 
 
+exploring the git 
+ui
 
-git revert command to revert back the changes done to an remote repository
---------------------------------------------------------------------------
 
+extra content
